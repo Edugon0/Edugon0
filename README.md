@@ -12,7 +12,7 @@
 <strong>Buscando conhecimento todos os dias</strong> 👀
 <br>
 <br>
-![T4kinho GitHub stats](https://github-readme-stats.vercel.app/api?username=T4kinho&show_icons=true&theme=merko)
+![Edugon0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edugon0&show_icons=true&theme=merko)
 <hr>
 
 
@@ -36,7 +36,7 @@ Atualmente, estou cursando o bacharelado em Ciência da Computação. Durante es
 
 ## statistic
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4kinho&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edugon0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4kinho&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edugon0&hide_progress=true)
 
