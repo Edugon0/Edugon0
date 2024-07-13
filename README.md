@@ -41,3 +41,9 @@ Atualmente, estou cursando o bacharelado em Ciência da Computação. Durante es
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edugon0&hide_progress=true)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
