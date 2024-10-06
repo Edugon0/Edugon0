@@ -18,7 +18,8 @@
 
 
 ## 🚀 About Me
-Atualmente, estou cursando o bacharelado em Ciência da Computação. Durante este período, tenho adquirido continuamente novos conhecimentos relacionados à programação e outras áreas da tecnologia. Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Adquirir conhecimento como UI Designer, aprimorando habilidades na criação de interfaces bonitas e intuitivas. Recentemente, fizeram uma transição de carreira para o backend, adquirindo conhecimento em integração de banco de dados e APIs em sites. minhas especialidades incluem React, HTML, CSS, JavaScript(ES6), MySQL, Linux e Python.
+Atualmente, estou cursando o bacharelado em Ciência da Computação. Durante este período, tenho adquirido continuamente novos conhecimentos relacionados à programação e outras áreas da tecnologia. Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Tenho experiência em UI Design, criando interfaces intuitivas, e recentemente migrei para backend, focando na integração de bancos de dados e APIs. Além disso, adquiri conhecimentos em engenharia de dados utilizando ferramentas como AWS, EC2, Snowflake, dbt e Apache Airflow, e em DevOps, incluindo CI/CD, Automação de Infraestrutura, Monitoramento e Log, Containers com Docker e Kubernetes, Gerenciamento de Configuração e Práticas Ágeis.
+
 
 
 ## 🛠 Skills
