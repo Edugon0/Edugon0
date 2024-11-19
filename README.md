@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edugon0/) <br>
 <strong>Academy Science of Computer</strong> 📚
 <br>
-<strong>Desenvolvedor FullStack</strong> 👨🏻‍💻
+<strong>Desenvolvedor Backend Junior</strong> 👨🏻‍💻
 <br>
 <strong>Email: eduardo.vic.goncalves@gmail.com</strong> ✉️
 <br>
