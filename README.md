@@ -6,11 +6,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://edugon0.github.io/My-Portfolio/index.html) <br>
 <strong>Academy Science of Computer</strong> 📚
 <br>
-<strong>Desenvolvedor Backend Junior</strong> 👨🏻‍💻
+<strong>Backend Developer</strong> 👨🏻‍💻
 <br>
 <strong>Email: eduardo.vic.goncalves@gmail.com</strong> ✉️
 <br>
-<strong>Buscando conhecimento todos os dias</strong> 👀
+<strong>Seeking knowledge every day</strong> 👀
 <br>
 <br>
 ![Edugon0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edugon0&show_icons=true&theme=merko)
