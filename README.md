@@ -19,7 +19,7 @@
 
 
 ## 🚀 About Me
-Atualmente, estou cursando o bacharelado em Ciência da Computação. Durante este período, tenho adquirido continuamente novos conhecimentos relacionados à programação e outras áreas da tecnologia. Sou um profissional competente, comunicativo e com bom relacionamento pessoal. Tenho experiência em UI Design, criando interfaces intuitivas, e recentemente migrei para backend, focando na integração de bancos de dados e APIs. Além disso, adquiri conhecimentos em engenharia de dados utilizando ferramentas como AWS, EC2, Snowflake, dbt e Apache Airflow, e em DevOps, incluindo CI/CD, Automação de Infraestrutura, Monitoramento e Log, Containers com Docker e Kubernetes, Gerenciamento de Configuração e Práticas Ágeis.
+"Hello, my name is Eduardo Gonçalves, and I am a Computer Science Bachelor's student with a growing passion for technology and developing innovative solutions. Throughout my academic journey, I have continually acquired new knowledge in various areas of technology, including programming, interface design, backend, data engineering, and DevOps practices. I am a communicative professional with strong interpersonal skills, always seeking challenges that allow me to grow even further in the field of technology."
 
 
 
