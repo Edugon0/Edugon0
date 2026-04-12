@@ -3,9 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gonçalves-5a9a4228a/)<br>
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edugon0/) <br>
-<strong>Academy Science of Computer</strong> 📚
+<strong>bachelor's degree Science of Computer</strong> 📚
 <br>
-<strong>Backend Developer</strong> 👨🏻‍💻
+<strong>Technical Support & DevOps</strong> 👨🏻‍💻
 <br>
 <strong>Email: eduardo.vic.goncalves@gmail.com</strong> ✉️
 <br>
