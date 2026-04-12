@@ -13,13 +13,12 @@
 <strong>Seeking knowledge every day</strong> 👀
 <br>
 <br>
-![Edugon0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Edugon0&show_icons=true&theme=merko)
 <hr>
 
 
 
 ## 🚀 About Me
-"Hello, my name is Eduardo Gonçalves, and I am a Computer Science Bachelor's student with a growing passion for technology and developing innovative solutions. Throughout my academic journey, I have continually acquired new knowledge in various areas of technology, including programming, interface design, backend, data engineering, and DevOps practices. I am a communicative professional with strong interpersonal skills, always seeking challenges that allow me to grow even further in the field of technology."
+"Hello, my name is Eduardo Gonçalves, and I am a Computer Science Bachelor's student with a growing passion for technology and developing innovative solutions. Throughout my academic journey, I have continually acquired new knowledge in various areas of technology, including programming, interface design, backend, and DevOps practices. I am a communicative professional with strong interpersonal skills, always seeking challenges that allow me to grow even further in the field of technology."
 
 
 
