@@ -2,7 +2,6 @@
 # Hi, I'm Eduardo Gonçalves 😊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gonçalves-5a9a4228a/)<br>
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edugon0/) <br>
 <strong>bachelor's degree Science of Computer</strong> 📚
 <br>
 <strong>Technical Support & DevOps</strong> 👨🏻‍💻
